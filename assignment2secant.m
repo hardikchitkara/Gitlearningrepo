@@ -43,5 +43,6 @@ x0=x1;
 x1=x;
 end
 m=m+1;
-end%}
+end%
 display(m)
+}
