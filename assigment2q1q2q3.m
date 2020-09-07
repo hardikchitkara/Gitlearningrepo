@@ -52,5 +52,5 @@ i=i+1;
 x2=x;
 x=x1;
 end
+%}
 fprintf('value of the root is %d',r);
-}%
